@@ -1,0 +1,5 @@
+.env
+.database.database
+__pycache__
+product.json
+venv
